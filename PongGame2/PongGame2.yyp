@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "19339ed2-40af-4277-b1c9-6e3ffd5c77c9",
+            "Value": {
+                "id": "774b7ad0-d881-421e-b207-552d4219f446",
+                "resourcePath": "objects\\objquit\\objquit.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "252e4d2d-5df4-44f9-b712-dff915f42b4f",
             "Value": {
                 "id": "90521e03-2d11-4113-bc88-4faf2a85f651",
@@ -84,6 +92,14 @@
                 "id": "c64b691b-daf4-4900-9525-3c719779a399",
                 "resourcePath": "views\\3880b0bf-e637-460b-91b2-cafe7d5554a1.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3fe2de23-a6d2-436f-bcbc-59c2fa36607c",
+            "Value": {
+                "id": "3da870f6-f761-4472-9bc8-22e997c4d371",
+                "resourcePath": "objects\\objend\\objend.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -183,6 +199,14 @@
             }
         },
         {
+            "Key": "9984f093-623e-4f9e-bc27-e9bb89ce51a4",
+            "Value": {
+                "id": "55bd918a-a76e-498e-96a7-166451974ad2",
+                "resourcePath": "sounds\\sndPaddleHIt\\sndPaddleHIt.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a238d9b9-ae62-4422-b7ed-d7373258c02a",
             "Value": {
                 "id": "caefec0a-c9e3-469c-a08a-1b3bfc0448e2",
@@ -260,6 +284,14 @@
                 "id": "ef64a7d4-5a9c-4a77-bbd4-6db786797002",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d99e168d-8365-4b6f-9c7c-51c0a828f91d",
+            "Value": {
+                "id": "c97144a2-b616-443f-95bc-9e1244e641db",
+                "resourcePath": "objects\\objStart\\objStart.yy",
+                "resourceType": "GMObject"
             }
         },
         {
