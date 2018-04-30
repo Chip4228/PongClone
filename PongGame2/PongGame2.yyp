@@ -191,6 +191,22 @@
             }
         },
         {
+            "Key": "73ace336-e52b-4ef9-af26-e8bcedd91413",
+            "Value": {
+                "id": "2aef1a1a-ae9a-49c5-a40e-fd9c69cc918a",
+                "resourcePath": "sounds\\sndbackground\\sndbackground.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "92c7eb3d-2214-4c1e-b3d1-4e7b001cc422",
+            "Value": {
+                "id": "404fe627-01fc-4fd2-86c9-90b2f01cf133",
+                "resourcePath": "objects\\objSound\\objSound.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "989b705f-183f-43d7-97a8-1d7c9dd51db4",
             "Value": {
                 "id": "a9763608-a2bd-49df-9a19-6f406ba7671d",
